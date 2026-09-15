@@ -30,7 +30,7 @@ I'm <Fernando Caballero>, a student at Brigham Young University-Idaho interested
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/rest.svg" title="REST API" alt="REST API" width="40" height="40"/>&nbsp;
+    <img src="https://img.shields.io/badge/REST-API-005571?logo=fastapi&logoColor=white" title="REST API" alt="REST API" width="80" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
