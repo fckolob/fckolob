@@ -7,8 +7,8 @@ I'm <Fernando Caballero>, a student at Brigham Young University-Idaho interested
 ## About Me
 
 - I'm currently learning Web Development and Computer Programming.
-- My goals are to work in the software industry
-- Ask me about...
+- My goals are to work in the software industry and help people with software solutions.
+
 
 ## Technologies and Tools
 
@@ -36,7 +36,7 @@ I'm <Fernando Caballero>, a student at Brigham Young University-Idaho interested
 
 ## Let's Connect!
 
-- Here is my [LinkedIn] ww.linkedin.com/in/fernando-caballero-540047191
+- Here is my linkedin www.linkedin.com/in/fernando-caballero-540047191
 - Here is my email: fckolob@gmail.com
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
